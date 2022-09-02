@@ -1,0 +1,4 @@
+registry:
+- ./trackers.ini
+stack: vot2022/sts
+

@@ -1,0 +1,6 @@
+Bootstrap: library
+From: qiangming/ms_aot/ms_aot:v3
+
+%labels
+    ms_aot_v3
+

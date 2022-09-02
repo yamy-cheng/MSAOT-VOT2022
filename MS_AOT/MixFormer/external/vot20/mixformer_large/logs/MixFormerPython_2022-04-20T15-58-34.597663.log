@@ -1,0 +1,10 @@
+WARNING: You are using tensorboardX instead sis you have a too old pytorch version.
+Traceback (most recent call last):
+  File "/home/yoxu/anaconda3/envs/mixformer/lib/python3.7/runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/home/yoxu/anaconda3/envs/mixformer/lib/python3.7/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/home/yoxu/vot_2022/MixFormer/external/AR/pytracking/VOT2020_super_only_mask_384_HP/mixformer_large_alpha_seg_class.py", line 19, in <module>
+    from pytracking.ARcm_seg import ARcm_seg
+ModuleNotFoundError: No module named 'pytracking'
+Process not alive anymore, unable to retrieve return code
