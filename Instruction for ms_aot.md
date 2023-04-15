@@ -65,4 +65,4 @@ chmod +x evaluate_ms_aot.sh
 2. We recommend to use GeForce RTX 3090 to run the program so that can avoid something unknown problems.
 
 # Contact
-If you have any problems about the environment settings and result reproduction, feel free to email 22151080@zju.edu.cn and we will reply as soon as possible ^_^
+If you have any problems about the environment settings and result reproduction, feel free to email chengyangming@zju.edu.cn and we will reply as soon as possible ^_^
