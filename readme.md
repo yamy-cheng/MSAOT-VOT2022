@@ -1,5 +1,5 @@
 # 🏆VOT-STs2022 and VOT-RTs2022 (real-time) Winner: MS-AOT
-MS-AOT ranked **1st** in **four tracks** of the **VOT 2022** challenge ([presentation of results](https://data.votchallenge.net/vot2022/vot2022_st_rt.pdf)). The MS-AOT tracker is built based on AOT. AOT applies the long short-term transformer (LSTT), which is responsible for propagating the object masks from past frames to the current frame, in the feature scale with a stride of 16. MS-AOT additionally appliesLSTT in a finer feature scale with a stride of 8, leading to better performance on small objects. 
+MS-AOT ranked **1st** in **four tracks** of the **VOT 2022** challenge ([presentation of results](https://data.votchallenge.net/vot2022/vot2022_st_rt.pdf)). The MS-AOT tracker is built based on AOT. AOT applies the long short-term transformer (LSTT), which is responsible for propagating the object masks from past frames to the current frame, in the feature scale with a stride of 16. MS-AOT additionally applies LSTT in a finer feature scale with a stride of 8, leading to better performance on small objects. 
  <!-- You can get the .def in [ms_aot_v3.def](https://drive.google.com/file/d/1MwL1CVs_Yc-jGjiS-4pBFVspm0DTIPh7/view?usp=sharing). -->
 <p align="center"><img src="./Figures/certificate.jpg" width = "900" height = "500" alt="vot2022_certificate"/> </p>
 
